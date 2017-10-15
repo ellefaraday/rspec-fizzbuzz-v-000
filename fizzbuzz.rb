@@ -8,7 +8,7 @@ def fizzbuzz(int)
   #elsif int % 5 == 0
     #return "Buzz"
   #end
-  #else
-    #return nil
-  #end
+  else
+    return nil
+  end
 end
