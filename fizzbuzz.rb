@@ -8,4 +8,3 @@ def fizzbuzz(number)
   else
     puts ""
 end
-
