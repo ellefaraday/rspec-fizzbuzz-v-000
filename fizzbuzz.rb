@@ -6,7 +6,7 @@ elsif number % 3 == 0
 elsif number % 5 == 0
     puts "Buzz"
  else
- end
+end
 
 fizzbuzz(3)
 fizzbuzz(5)
