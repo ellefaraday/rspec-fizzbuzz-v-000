@@ -9,4 +9,3 @@ def fizzbuzz(number)
     puts ""
 end
 
-fizzbuzz(3)
